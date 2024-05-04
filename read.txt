@@ -1,0 +1,1 @@
+Так как проект превышает 100 мегабайт, он был загружен на GitHub. Ссылка на него - https://github.com/Konstokar/Studying-mobile-game.git
