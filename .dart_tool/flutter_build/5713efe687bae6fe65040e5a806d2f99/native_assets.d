@@ -1,0 +1,1 @@
+ /Users/konstantintokarev/AndroidStudioProjects/Studying-mobile-game/.dart_tool/flutter_build/5713efe687bae6fe65040e5a806d2f99/native_assets.yaml: 
