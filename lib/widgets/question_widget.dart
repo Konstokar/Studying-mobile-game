@@ -13,7 +13,7 @@ class QuestionWidget extends StatelessWidget {
       alignment: Alignment.centerLeft,
       child: Text(
           "Вопрос ${indexActoin + 1} из $totalQuestions: $question",
-        style: TextStyle(
+        style: const TextStyle(
           fontSize: 24.0,
            color: neutral
         ),
